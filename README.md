@@ -1,7 +1,7 @@
 # Java Pomodoro Study Tracker
 This was a group project that aimed to create a pomodoro style app where users would set a study timer. When the timer ended it would allow the user to enter what work they completed and would store that in the DB with the session time to keep track of the users sessions and work completed.
 
-#My Responsibilities
+# My Responsibilities
 - Database Design & Implementation
 - Volunteered to lead database development due to prior experience with SQLite.
 - Designed and implemented the initial accounts database schema.
